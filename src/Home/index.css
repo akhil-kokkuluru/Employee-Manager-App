@@ -1,0 +1,22 @@
+.tableContainer {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+  }
+  .addButton {
+    width: 120px;
+    height: 30px;
+    color: #ffffff;
+    outline: none;
+    cursor: pointer;
+    border-width: 0px;
+    border-radius: 3px;
+    background-color: green;
+    font-weight: bold;
+    align-self: flex-end;
+    margin-bottom: 20px;
+  }
+  
